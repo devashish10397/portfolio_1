@@ -1,0 +1,24 @@
+# netlify.toml
+
+# Build settings
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Redirects
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Headers
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+
+# Asset optimization
+[build.processing]
+  css = { minify = true }
+  js = { minify = true, bundle = true, external = true }
+  images = { optimize = true }
