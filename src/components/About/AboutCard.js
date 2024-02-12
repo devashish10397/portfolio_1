@@ -37,7 +37,7 @@ function AboutCard() {
             who lives free from desires, who has given up all sense of proprietorship 
             and is devoid of false ego – he alone can attain real peace."{" "}
           </p>
-          <footer className="blockquote-footer">Bhagavad Gita</footer>
+          <footer className="blockquote-footer">Krishna</footer>
         </blockquote>
       </Card.Body>
     </Card>
