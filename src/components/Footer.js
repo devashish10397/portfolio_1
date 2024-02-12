@@ -5,7 +5,6 @@ import {
   AiFillMail,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import { SiLeetcode } from "react-icons/si";
 import { AiFillInstagram } from "react-icons/ai";
 import { AiFillGithub } from "react-icons/ai";
 
