@@ -1,6 +1,5 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href=Shreyash Gondane" target="_blank">Devashish Ubale</a>
 </h2>
 
 This project was built using these technologies.
