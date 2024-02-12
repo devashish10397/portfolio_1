@@ -1,7 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { CgCPlusPlus } from "react-icons/cg";
-import { TbBrandCSharp } from "react-icons/tb";
 import { SiSpring } from "react-icons/si";
 import { SiApachekafka } from "react-icons/si";
 import {
