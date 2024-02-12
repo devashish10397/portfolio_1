@@ -4,16 +4,12 @@ import { CgCPlusPlus } from "react-icons/cg";
 import { TbBrandCSharp } from "react-icons/tb";
 import { SiSpring } from "react-icons/si";
 import {
-  DiJavascript1,
   DiReact,
   DiPython,
 } from "react-icons/di";
 import {
-  SiDataversioncontrol,
   SiNodedotjs,
-  SiMysql,
   SiHtml5,
-  SiFastapi
 } from "react-icons/si";
 import { IoLogoJavascript } from "react-icons/io5";
 import { SiJquery } from "react-icons/si";
