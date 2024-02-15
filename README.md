@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href=Devashish " target="_blank">Devashish Ubale</a>
+  <a href=[Devashish](https://github.com/devashish10397) " target="_blank">Devashish Ubale</a>
 </h2>
 
 This project was built using these technologies.
