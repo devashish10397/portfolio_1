@@ -2,7 +2,11 @@ import React, { useState, useEffect } from "react";
 import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
+<<<<<<< HEAD
 import pdf from "../../Assets/../Assets/Shreyash.pdf";
+=======
+import pdf from "../../Assets/../Assets/Devashish.pdf";
+>>>>>>> main
 //import pdf from "../Projects/Shreyash.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";

@@ -116,7 +116,11 @@ function Projects() {
               title="Multi-Threaded Whack-a-Mole Game"
               description="Java, Java Swing, Java multi-threading :Crafted an immersive multi-threaded Whack-a-Mole game using Java Swing, demonstrating seamless concurrency
               management and interactive user engagement."
+<<<<<<< HEAD
               link="https://github.com/devashish10397/Amazon-Review-Clustering"
+=======
+              link="https://github.com/devashish10397/whack-a-mole/blob/main/README"
+>>>>>>> main
             />
           </Col>
           <Col md={4} className="project-card">

@@ -1,9 +1,16 @@
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
+=======
+#  See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+>>>>>>> main
 
 # testing
 /coverage
@@ -13,7 +20,10 @@
 
 # misc
 .DS_Store
+<<<<<<< HEAD
 .env
+=======
+>>>>>>> main
 .env.local
 .env.development.local
 .env.test.local
@@ -21,9 +31,13 @@
 
 npm-debug.log*
 yarn-debug.log*
+<<<<<<< HEAD
 yarn-error.log*
 
 .eslintcache
 
 Server/node_modules
 Server/config.js
+=======
+yarn-error.log*
+>>>>>>> main

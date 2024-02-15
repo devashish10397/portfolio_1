@@ -38,7 +38,10 @@ function App() {
           <Route path="/project" element={<Projects />} />
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />
+<<<<<<< HEAD
           {/* <Route path="*" element={<Navigate to="/"/>} /> */}
+=======
+>>>>>>> main
         </Routes>
         <Footer />
       </div>

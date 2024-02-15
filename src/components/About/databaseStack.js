@@ -1,7 +1,10 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
+<<<<<<< HEAD
   SiOracle,
+=======
+>>>>>>> main
   SiMysql,
 } from "react-icons/si";
 import { SiMongodb } from "react-icons/si";
