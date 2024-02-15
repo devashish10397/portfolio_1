@@ -1,9 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-<<<<<<< HEAD
-  <a href=Shreyash Gondane" target="_blank">Devashish Ubale</a>
-=======
->>>>>>> main
+  <a href=Devashish " target="_blank">Devashish Ubale</a>
 </h2>
 
 This project was built using these technologies.
@@ -13,11 +10,7 @@ This project was built using these technologies.
 - Express.js
 - CSS3
 - VsCode
-<<<<<<< HEAD
-- Vercel
-=======
 - Netlify
->>>>>>> main
 
 ## Features
 
@@ -44,8 +37,3 @@ The page will reload if you make edits.
 ## Usage Instructions
 
 Open the project folder and Navigate to `/src/components/`. <br/>
-<<<<<<< HEAD
-You will find all the components used and you can edit your information accordingly.
-=======
-You will find all the components used and you can edit your information accordingly.
->>>>>>> main
