@@ -7,10 +7,7 @@ import {AiFillMail,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
-<<<<<<< HEAD
-=======
 import { SiGithub } from "react-icons/si";
->>>>>>> main
 
 function Home2() {
   return (
@@ -22,11 +19,7 @@ function Home2() {
               Let me <span className="purple"> introduce </span> myself
             </h1>
             <p className="home-about-body">
-<<<<<<< HEAD
-              I am a experienced Software Engineer, Recently Completed Masters from Carnegie Mellon Univeristy🎓              <br />
-=======
-              I am a experienced Software Engineer, recently completed Masters from Carnegie Mellon Univeristy🎓              <br />
->>>>>>> main
+              I am an experienced Software Engineer, recently completed Masters from Carnegie Mellon Univeristy🎓              <br />
               <br />I am well versed in
               <i>
                 <b className="purple"> Python, Java, C, C++ and C#. </b>
@@ -116,8 +109,6 @@ function Home2() {
                   <AiFillInstagram />
                 </a>
               </li>
-<<<<<<< HEAD
-=======
               <li className="social-icons">
                 <a
                   href="https://github.com/devashish10397"
@@ -128,7 +119,6 @@ function Home2() {
                   <SiGithub />
                 </a>
               </li>
->>>>>>> main
             </ul>
           </Col>
         </Row>
