@@ -19,7 +19,7 @@ function Home2() {
               Let me <span className="purple"> introduce </span> myself
             </h1>
             <p className="home-about-body">
-              I am a experienced Software Engineer, recently completed Masters from Carnegie Mellon Univeristy🎓              <br />
+              I am an experienced Software Engineer, recently completed Masters from Carnegie Mellon Univeristy🎓              <br />
               <br />I am well versed in
               <i>
                 <b className="purple"> Python, Java, C, C++ and C#. </b>
